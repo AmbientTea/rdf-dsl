@@ -1,4 +1,4 @@
-package rdf.namespace
+package rdf_dsl.namespace
 
 import org.scalatest.{Matchers, WordSpec}
 

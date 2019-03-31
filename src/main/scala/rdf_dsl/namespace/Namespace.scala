@@ -1,4 +1,4 @@
-package rdf.namespace
+package rdf_dsl.namespace
 
 abstract class Namespace(
                           val alias: String,

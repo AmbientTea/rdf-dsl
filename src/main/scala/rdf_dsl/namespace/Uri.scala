@@ -1,4 +1,4 @@
-package rdf.namespace
+package rdf_dsl.namespace
 
 class Uri(fragment: String)(implicit namespace: Namespace) {
   def uriString: String = s"${namespace.fullString}#$fragment"
